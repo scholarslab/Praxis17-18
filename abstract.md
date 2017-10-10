@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+Spyros
+What is augmented reality?
+What would be a minimal augmented reality project?
+How can we augment a rare collections book? 
+=======
 this is our abstract yay!
 
 Monica's Project Blurb
@@ -17,3 +23,4 @@ The 2017-2018 Praxis cohort at the University of Virginia is working on a projec
 Our project integrates documents culled from the Albert and Shirley Small Special Collections Library.
 
 The technology that our project employs is *??*.
+>>>>>>> 51f431bc9a5801e3a344cd6f8b3791c6b5611cc7
