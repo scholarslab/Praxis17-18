@@ -2,7 +2,7 @@
 Spyros
 What is augmented reality?
 What would be a minimal augmented reality project?
-How can we augment a rare collections book? 
+How can we augment a rare collections book?
 =======
 this is our abstract yay!
 Just checking...
@@ -16,3 +16,8 @@ Our project integrates documents culled from the Albert and Shirley Small Specia
 
 The technology that our project employs is *??*.
 >>>>>>> 51f431bc9a5801e3a344cd6f8b3791c6b5611cc7
+
+To Christian: do you mean applications just in the "app" sense or also low-tech?
+
+Torie blurb:
+Our project uses metadata analysis to inform connections between university spaces and Special Collections objects at UVa that reveal the dynamism of both the space and the object. 
