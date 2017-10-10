@@ -1,4 +1,5 @@
 this is our abstract yay!
+Just checking...
 
 Christian Howard:
 
@@ -7,4 +8,4 @@ The 2017-2018 Praxis cohort at the University of Virginia is working on a projec
 *Paragraph on what buildings/information we are using/drawing from.*
 Our project integrates documents culled from the Albert and Shirley Small Special Collections Library.
 
-The technology that our project employs is *??*. 
+The technology that our project employs is *??*.
