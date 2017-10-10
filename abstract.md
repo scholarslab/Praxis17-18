@@ -7,3 +7,13 @@ Research question: How do we make seemingly static places/texts talk? What can t
 One answer: We can use digital technologies to illuminate histories/realities that usually remain hidden. In this case study, We will use augmented reality to allow users to experience spaces and objects at the University of Virginia in new ways that prompt critical reflection on the structure, culture, mission, and history of UVA.
 
 UVA is one case study. However, we hope that our methods can be picked up and used by other scholars to critically reexamine their own institutional histories/spaces.
+
+
+Christian Howard:
+
+The 2017-2018 Praxis cohort at the University of Virginia is working on a project tentatively titled: *Augmenting the University*. Using augmented reality applications, this project is designed to highlight the dynamic, changing spaces across the university by making visible historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related events that have occurred at the University of Virginia. In so doing, we hope to *aims*.
+
+*Paragraph on what buildings/information we are using/drawing from.*
+Our project integrates documents culled from the Albert and Shirley Small Special Collections Library.
+
+The technology that our project employs is *??*.
