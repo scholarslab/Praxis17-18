@@ -1,10 +1,9 @@
-html { color: yellow;
+html {background-color: lavender;
+font-family: cursive;
+background-image: url('https://www.deltaco.com/images/homeslideshow/2017promo5/Taco-Nights3_food01.png');
+background-repeat: repeat;
 }
 
-h1 { font-family: wingdings, cursive;
-  background-color: pink;
-}
-
-p { float: right;
+.Header {color: black;
 
 }
