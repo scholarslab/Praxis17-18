@@ -37,7 +37,7 @@ Ok sorry this is ending up being more like more ideas and less like a unified ab
 I've been reading about Linked Data which can use library catalog data and data from disparate places on the Web (or, even in other library catalogs) to match data from an object or resource with related content that goes deeper than subject matter/author/language/etc, the normal stuff you see on VIRGO, for example. Linked Data requires that resources have URIs that can be accessed quickly within ... and... I'm stretching my knowledge here so apologies if this doesn't make sense... within an RDF/SPARQL platform... (????) Connections between resources'  URIs allows for a richer process of library cataloging as well as data discovery for the user.
 
 SO, that's a very basic rundown and probably not 100% correct BUT what I've been looking at are applications that use existing Linked Data (WorldCat for example has Linked Data on all of its titles). One interesting project called DBPedia is a Linked Data application that explores your surroundings using GPS. The app uses current GPS location and then allows the user to ... bear with me... navigate along RDF links to other data sources. So I imagine it shows you URIs through RDF related to its understanding of your location. Users can also publish their own content back to the app which is added to the Linked Data.
-**Cannot actually figure out if this was/is currently a functioning app** 
+**Cannot actually figure out if this was/is currently a functioning app**
 
 What I'm interested in researching is if there is a way we can merge library information into an application that uses GPS location for UVa grounds so that a space is instantly linked with special collections holdings related to that space. I know how to access the URIs for WorldCat holdings that lead to that item's Linked Data, and I'm wondering if there is a similar way to access that information directly from Virgo.
 
@@ -46,3 +46,9 @@ That way, we could have an app that, when you are in the Chapel, e.g., can link 
 I am wondering how specific Special Collections data is, and if this would work at all. But I think that having a tool for this kind of data and research analysis is an important back end that our project needs.
 
 Maybe parts of this ramble can be used in the abstract!
+
+Ankita:
+
+Digital space assumes a kind of openness and easy mobility that is lacking in real space. Users can move rapidly across zones that they would not be able to in actuality. Spatial boundaries and limitations are seemingly circumvented to a large extent in the digital space. Movement may be controlled due to socio-economic and political reasons, resulting in groups of individuals who are excluded from areas. Though the university itself is a public space, it would be interesting to explore this dynamic through an interrogation of physical, real world boundaries as opposed to the boundaries (or lack thereof) in digital space. This might also tie into issues of accessibility. [Apologies since this is more an idea and not really abstract related!]
+
+I really like Torie's idea also, though I'm not certain I understand all of it. Looking for ward to hearing more about it! 
