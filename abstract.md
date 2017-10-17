@@ -56,6 +56,9 @@ I really like Torie's idea also, though I'm not certain I understand all of it. 
 
 Along with the app, I think we should consider ways in which we can conduct our research, structure and present it on the web in a way that can replicate, or at least mimic, the features of augmented reality. It will not have the "cool" effect of superimposing augmented details on to real time space, but I don't think that it will be any less illuminating with respect to our research goals and objectives. The web "version" could be multi-layered in a way that points toward the "augmented" nature of the project. So even if a user is navigating through the web version of our project, they will be able to experience the same thing as the app user. In fact, the web will be more informative since it will show more clearly our research methods and findings.
 
+
+**Torie commenting on Ankita**: the idea with Linked Data is that that would be the way we conduct the research and how people can replicate it, that would be the structural data part of the project. That is just one of many ways we can crawl special collections data to reveal space or ... whatever. And that would be the tool, a way through data analysis to link places to objects. 
+
 ***Tanner***
 
 I quite like Torie's idea about being able to access special collections that pertain to a given place/object when you're physically standing there. Seems focused and (hopefully) achievable. I'm also interested in Ankita's point about also providing the inverse: a way for people using Special Collections online to still be able to access some sense of these spatial relations.
