@@ -66,3 +66,17 @@ I quite like Torie's idea about being able to access special collections that pe
 I'm reminded of a project Torie and I did a while back where we were looking through Special Collections at documents about the founding of our department. I wound up falling down a rabbit hole about everything Paul McIntire funded, and I think Torie found some salacious details about the architect of Old Cabell Hall? These are the sorts of things that might be up our collective alley, and Torie's points about linked data suggest the ability to make research/historical connections that further supplement this sort of approach to AR.
 
 It sounds like it'll definitely do us well to think more about how we present these items to users of our app/web/goggles/what-have-you. Perhaps this is one area where non-text objects might be easier to present? If there's an entire box of papers for a certain figure or event in the University's history, we won't be able to simply digitize them all (setting aside the unlikelihood that we'd even be allowed to), so how can we be most efficient in picking out the most salient details to display for each object/location? What criteria would we use in making that decision/what might be at risk of being left out?
+
+
+### Putting it all together:
+
+The 2017-2018 Praxis cohort at the University of Virginia is working on a project tentatively titled: *Augmenting the University*. Using augmented reality applications, this project is designed to highlight the dynamic, changing spaces across the university by making visible historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related places and events that have occurred at the University of Virginia. In so doing, we hope to address the research questions: How do we make seemingly static places and texts speak? What can the resulting dynamism reveal about institutional history and (in)equality?
+
+Digital space assumes a kind of openness and easy mobility that is lacking in real space. In real space, movement may be controlled or limited by socio-economic and political reasons, resulting in groups of individuals who are excluded from areas. Nonetheless, spatial boundaries and limitations can be circumvented in digital spaces, and users can move rapidly across zones that they would not be able to in actuality. *Augmenting the University* will thus showcase how
+
+*Augmenting the University* has two primary instantiations: a web-based version and an app. The web version will clearly layout both our research methods and findings, and we plan to design it in such as way that it will point toward the "augmented" nature of the project. Indeed, the second version of the project will explicitly draw upon augmented-reality (AR) technology. We plan to use *??*. In so doing, we will
+
+*Paragraph on what buildings/information we are using/drawing from.*
+Moreover, our project integrates documents culled from the Albert and Shirley Small Special Collections Library, and we will use AR to allow users to experience these limited access spaces and objects at UVA in new ways that prompt critical reflection on the structure, culture, mission, and history of the University.
+
+While our case study is limited to the University of Virginia, we hope that our methods can be adapted and used by other scholars to critically reexamine their own institutional histories/spaces.
