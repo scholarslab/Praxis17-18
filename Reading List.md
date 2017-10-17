@@ -5,6 +5,7 @@ http://search.lib.virginia.edu/catalog/u6999896
 http://linkeddata.org/
 http://wiki.dbpedia.org/
 https://www.oclc.org/developer/develop/linked-data/linked-data-exploration.en.html
+http://wiki.dbpedia.org/projects/dbpedia-mobile
 
 On Cultural Heritage Sites/Visualizing Cultural Sites:
 http://www.sciencedirect.com/science/article/pii/S2212671613000127
