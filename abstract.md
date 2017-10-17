@@ -46,3 +46,5 @@ That way, we could have an app that, when you are in the Chapel, e.g., can link 
 I am wondering how specific Special Collections data is, and if this would work at all. But I think that having a tool for this kind of data and research analysis is an important back end that our project needs.
 
 Maybe parts of this ramble can be used in the abstract!
+
+In terms of accessibility: I think that providing a more low-tech version of augmented reality by simply providing real-time resources to related content is a way to skirt around accessibility issues. Users with vision, hearing, learning, or sensory concerns generally have the proper applications on their devices to navigate regular mobile content. That being said, the necessity of having a device to access this content is limiting to those who 1) do not want to share GPS location with their service provider 2) do not have a smart phone. So I think that the backend of our project should be accessible on the internet regardless of location on grounds or smart phone access. BUT this would easily lend itself to more high-tech forms of augmented reality, not *just* the low-tech version. 
