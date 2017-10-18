@@ -1,82 +1,13 @@
-### Spyros
-A few questions about the project
-- What is augmented reality? (Think about the concept of augmented reality beyond the gimmicks of contemporary technological devices)  
+The 2017-2018 Praxis cohort at the University of Virginia is working on a project tentatively titled: *Augmenting the University*. Using augmented reality ~applications~, this project is designed to highlight the dynamic, changing spaces across the university by making visible historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related places and events that have occurred at the University of Virginia. In so doing, we hope to address the research questions: How do we make seemingly static places and texts speak? What can the resulting dynamism reveal about institutional history and (in)equality?
 
-- Has augmented reality been imagined in the past? (who? where? how? Examples: Babage, Rabelais, others?)
+Digital space assumes a kind of openness and easy mobility that is lacking in real space. In real space, movement may be controlled or limited by socio-economic and political reasons, resulting in groups of individuals who are excluded from areas. Spatial boundaries and limitations can seemingly be circumvented in digital spaces, and users can move rapidly across zones that they would not be able to in actuality. *Augmenting the University* is thus designed to explore how real spaces can be accessed through changing, mobile technologies that enable spatial and temporal augmentation. In so doing, our project seeks to challenge our interaction and interpretations of spaces.
 
-- What do we exactly want to do with augmented reality? What do we want to reveal along side with what already exists? Through which senses are we augmenting (sight, hearing)? Accessibility issues? Who is our audience? How the user of our project is supposed to interact with it and what will they learn?
+*Paragraph about history/definition of “augmented reality”* (We will be augmenting reality by connecting objects, spaces, and library data in order to break down the spatial and informational categories that blah blah blah. Talk about how both the app, the website, and the method we use are different types of augmenting)
 
-- What would a minimal augmented reality project be? (minimal computing, experimental and critical making, easily reproducible by others, with no use of third party proprietary software)
+*Augmenting the University* has two primary instantiations: a web-based version and an app. The web version will clearly layout both our research methods and findings, and we plan to design it in such as way that it will point toward the "augmented" nature of the project. Indeed, the second version of the project will explicitly draw upon augmented-reality (AR) technology.
 
+In particular, our project uses the tenets of Linked Data and metadata analysis within the UVa’s catalog (VIRGO) to draw broader, richer links between objects within Small Special Collection as well as those objects and their connections with physical space at the University. The results of Linked Data searches will inform how we reveal dynamic space, and lead participants toward more discoverable experiences, challenging their knowledge with new information from disparate places.
 
+The objects of our investigation include both buildings and documents at or connected to the University of Virginia. Specifically, our project integrates documents culled from the Albert and Shirley Small Special Collections Library with physical spaces at the university. Ultimately, we hope to use AR to allow users to experience these limited access spaces and objects at UVA in new ways that prompt critical reflection on the structure, culture, mission, and history of the University.
 
-### Monica's Project Blurb
-
-Research question: How do we make seemingly static places/texts talk? What can those places/texts tell us about institutional inequality?
-
-One answer: We can use digital technologies to illuminate histories/realities that usually remain hidden. In this case study, We will use augmented reality to allow users to experience spaces and objects at the University of Virginia in new ways that prompt critical reflection on the structure, culture, mission, and history of UVA.
-
-UVA is one case study. However, we hope that our methods can be picked up and used by other scholars to critically reexamine their own institutional histories/spaces.
-
-### Christian Howard:
-
-The 2017-2018 Praxis cohort at the University of Virginia is working on a project tentatively titled: *Augmenting the University*. Using augmented reality applications, this project is designed to highlight the dynamic, changing spaces across the university by making visible historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related events that have occurred at the University of Virginia. In so doing, we hope to *aims*.
-
-*Paragraph on what buildings/information we are using/drawing from.*
-Our project integrates documents culled from the Albert and Shirley Small Special Collections Library.
-
-The technology that our project employs is *??*.
-
-To Christian: do you mean applications just in the "app" sense or also low-tech?
-
-### Torie blurb:
-Our project uses metadata analysis to inform connections between university spaces and Special Collections objects at UVa that reveal the dynamism of both the space and the object.
-
-Ok sorry this is ending up being more like more ideas and less like a unified abstract BUT I've been thinking of ways that our project can connect library holdings/spaces/objects.
-
-I've been reading about Linked Data which can use library catalog data and data from disparate places on the Web (or, even in other library catalogs) to match data from an object or resource with related content that goes deeper than subject matter/author/language/etc, the normal stuff you see on VIRGO, for example. Linked Data requires that resources have URIs that can be accessed quickly within ... and... I'm stretching my knowledge here so apologies if this doesn't make sense... within an RDF/SPARQL platform... (????) Connections between resources'  URIs allows for a richer process of library cataloging as well as data discovery for the user.
-
-**Cannot actually figure out if this was/is currently a functioning app**
-
-What I'm interested in researching is if there is a way we can merge library information into an application that uses GPS location for UVa grounds so that a space is instantly linked with special collections holdings related to that space. I know how to access the URIs for WorldCat holdings that lead to that item's Linked Data, and I'm wondering if there is a similar way to access that information directly from Virgo.
-
-That way, we could have an app that, when you are in the Chapel, e.g., can link you to items in special collections detailing the first integrated service at the Chapel, any riots occurring at the Chapel, etc. We could also similarly allow new content to be generated by the user.
-
-I am wondering how specific Special Collections data is, and if this would work at all. But I think that having a tool for this kind of data and research analysis is an important back end that our project needs.
-
-Maybe parts of this ramble can be used in the abstract!
-
-In terms of accessibility: I think that providing a more low-tech version of augmented reality by simply providing real-time resources to related content is a way to skirt around accessibility issues. Users with vision, hearing, learning, or sensory concerns generally have the proper applications on their devices to navigate regular mobile content. That being said, the necessity of having a device to access this content is limiting to those who 1) do not want to share GPS location with their service provider (if that's where we're going with this) or 2) do not have a smart phone. So I think that the backend of our project should be accessible on the internet regardless of location on grounds or smart phone access. BUT this would easily lend itself to more high-tech forms of augmented reality, not *just* the low-tech version.
-
-Ankita:
-
-Digital space assumes a kind of openness and easy mobility that is lacking in real space. Users can move rapidly across zones that they would not be able to in actuality. Spatial boundaries and limitations are seemingly circumvented to a large extent in the digital space. Movement may be controlled due to socio-economic and political reasons, resulting in groups of individuals who are excluded from areas. Though the university itself is a public space, it would be interesting to explore this dynamic through an interrogation of physical, real world boundaries as opposed to the boundaries (or lack thereof) in digital space. This might also tie into issues of accessibility. [Apologies since this is more an idea and not really abstract related!]
-
-I really like Torie's idea also, though I'm not certain I understand all of it. Looking for ward to hearing more about it!
-
-Along with the app, I think we should consider ways in which we can conduct our research, structure and present it on the web in a way that can replicate, or at least mimic, the features of augmented reality. It will not have the "cool" effect of superimposing augmented details on to real time space, but I don't think that it will be any less illuminating with respect to our research goals and objectives. The web "version" could be multi-layered in a way that points toward the "augmented" nature of the project. So even if a user is navigating through the web version of our project, they will be able to experience the same thing as the app user. In fact, the web will be more informative since it will show more clearly our research methods and findings.
-
-
-**Torie commenting on Ankita**: the idea with Linked Data is that that would be the way we conduct the research and how people can replicate it, that would be the structural data part of the project. That is just one of many ways we can crawl special collections data to reveal space or ... whatever. And that would be the tool, a way through data analysis to link places to objects. 
-
-***Tanner***
-
-I quite like Torie's idea about being able to access special collections that pertain to a given place/object when you're physically standing there. Seems focused and (hopefully) achievable. I'm also interested in Ankita's point about also providing the inverse: a way for people using Special Collections online to still be able to access some sense of these spatial relations.
-
-I'm reminded of a project Torie and I did a while back where we were looking through Special Collections at documents about the founding of our department. I wound up falling down a rabbit hole about everything Paul McIntire funded, and I think Torie found some salacious details about the architect of Old Cabell Hall? These are the sorts of things that might be up our collective alley, and Torie's points about linked data suggest the ability to make research/historical connections that further supplement this sort of approach to AR.
-
-It sounds like it'll definitely do us well to think more about how we present these items to users of our app/web/goggles/what-have-you. Perhaps this is one area where non-text objects might be easier to present? If there's an entire box of papers for a certain figure or event in the University's history, we won't be able to simply digitize them all (setting aside the unlikelihood that we'd even be allowed to), so how can we be most efficient in picking out the most salient details to display for each object/location? What criteria would we use in making that decision/what might be at risk of being left out?
-
-
-### Putting it all together:
-
-The 2017-2018 Praxis cohort at the University of Virginia is working on a project tentatively titled: *Augmenting the University*. Using augmented reality applications, this project is designed to highlight the dynamic, changing spaces across the university by making visible historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related places and events that have occurred at the University of Virginia. In so doing, we hope to address the research questions: How do we make seemingly static places and texts speak? What can the resulting dynamism reveal about institutional history and (in)equality?
-
-Digital space assumes a kind of openness and easy mobility that is lacking in real space. In real space, movement may be controlled or limited by socio-economic and political reasons, resulting in groups of individuals who are excluded from areas. Nonetheless, spatial boundaries and limitations can be circumvented in digital spaces, and users can move rapidly across zones that they would not be able to in actuality. *Augmenting the University* will thus showcase how
-
-*Augmenting the University* has two primary instantiations: a web-based version and an app. The web version will clearly layout both our research methods and findings, and we plan to design it in such as way that it will point toward the "augmented" nature of the project. Indeed, the second version of the project will explicitly draw upon augmented-reality (AR) technology. We plan to use *??*. In so doing, we will
-
-*Paragraph on what buildings/information we are using/drawing from.*
-Moreover, our project integrates documents culled from the Albert and Shirley Small Special Collections Library, and we will use AR to allow users to experience these limited access spaces and objects at UVA in new ways that prompt critical reflection on the structure, culture, mission, and history of the University.
-
-While our case study is limited to the University of Virginia, we hope that our methods can be adapted and used by other scholars to critically reexamine their own institutional histories/spaces.
+While our case study is limited to the University of Virginia, we hope that our methods can be adapted and used by other scholars to critically reexamine their own institutional histories/spaces. We hope that in the future users will be able to augment the project themselves by adding data points, spaces, etc. and building upon the framework we have created.
