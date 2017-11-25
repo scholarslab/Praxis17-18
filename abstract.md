@@ -45,4 +45,3 @@ Through an archival excavation in the special collections, we plan to unearth ra
 « Ambient Literature – This is your part of the story », consulté le 25 novembre 2017, https://ambientlit.com/.
 
 Katherine Hayles et Jessica Pressman, éd., Comparative textual media: transforming the humanities in the postprint era, Electronic mediations, Volume 42 (Minneapolis ; London: University of Minnesota Press, 2013).
--
