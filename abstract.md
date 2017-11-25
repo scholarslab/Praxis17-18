@@ -18,7 +18,8 @@ If Terminator's vision was the first popular encounter with augmented reality in
 Digital space assumes a kind of openness and easy mobility that is lacking in real space. In real space, movement may be controlled or limited by socio-economic and political reasons, resulting in groups of individuals who are excluded from areas (the same can be said about digital spaces i.e. firewalls, paying services, language barriers, profile/password credentials, profiles set to private, digital literacy). Spatial boundaries and limitations can seemingly be circumvented in digital spaces, and users can move rapidly across zones that they would not be able to in actuality. *Augmenting the University* is thus designed to explore how real spaces can be experienced through changing, mobile technologies that enable spatial and temporal augmentation. In so doing, our project seeks to challenge our interaction and interpretations of spaces.
 
 ### Theory - Literature Review - Question
-Similar projects that have already attempted to bring AR technology to places.
+
+We are inspired by digital humanities projects like The Whole Story, an augmented reality app that allows user to build AR statues of women and place them in the spatial landscape for others to see (https://thewholestoryproject.com). By putting women back in the narrative, the app challenges the unequal statuary landscape and its implication that men are the makers of history. Furthermore, we hope that by using AR to illuminate historical, cultural, racial, (inter)national, (trans)sexual, and (dis)ability-related histories at our university, we will not only tell old stories, we will also discover new ones. In this we are inspired by spatial historian Richard White, who claims, “Visualization and spatial history are not about producing illustrations or maps to communicate things that you discovered by other means. It is a means of doing research: it generates questions that might otherwise go unasked, it reveals historical relations that might otherwise go unnoticed, and it undermines, or substantiates, stories upon which we build our own versions of the past” (https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29).
 
 Add a little blurb about
 - Mobile Narratives: Reading and Writing Urban Space with Location-Based Technologies by Adriana de Souza e Silva
@@ -45,3 +46,7 @@ Through an archival excavation in the special collections, we plan to unearth ra
 « Ambient Literature – This is your part of the story », consulté le 25 novembre 2017, https://ambientlit.com/.
 
 Katherine Hayles et Jessica Pressman, éd., Comparative textual media: transforming the humanities in the postprint era, Electronic mediations, Volume 42 (Minneapolis ; London: University of Minnesota Press, 2013).
+
+The Whole Story, Y&R, accessed Nov. 25, 2017, https://thewholestoryproject.com.
+
+Richard White, "What is Spacial History?"  accessed Nov. 25, 2017, https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29.
