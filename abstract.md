@@ -2,7 +2,7 @@
 
 ### Intro
 
-If in every place and thing in the world there is a story, who is going to be there to say it? Our project tentatively named *Augmenting the University* is set to explore the historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related "archeology" of the University of Virginia weaving the stories back to the objects and places they belong too. Our project challenges the ways we experience the world through a combination of location aware technologies and augmented reality techniques.  
+If in every place and thing in the world there is a story, who is going to be there to say it? Our project, tentatively titled *Augmenting the University*, aims to explore the historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related "archeology" of our university by reintegrating stories with the objects and places associated with them. Our project challenges the ways we experience the world through a combination of location aware technologies and augmented reality techniques.  
 
 Our project is challenging the boundaries of reality while working on a project tentatively titled: *Augmenting the University*. Exploring augmented reality techniques, our project aims to cut through the thick patina of time exposing the historical, cultural, (inter)national, (trans)sexual, and (dis)ability-related "archeology" of objects, places, and events. In doing so, we hope to address the research questions: What does it mean to augment a place or object from special collections? How do we make seemingly static places and texts speak? What can the resulting dynamism reveal about institutional history and (in)equality?
 
